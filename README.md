@@ -1,10 +1,6 @@
 <div align="center">
 
-# [Your Name]
-
-**Data Analyst | Data Scientist**
-
-Turning messy data into clear decisions
+<img src="./assets/header.png" width="100%" alt="Navin SK — Data Analyst | Data Scientist" />
 
 [LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;•&nbsp; [Email](mailto:your.email@example.com) &nbsp;•&nbsp; [Portfolio](https://yourportfolio.com)
 
