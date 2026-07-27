@@ -1,6 +1,6 @@
 # 🐐 Navin SK
 
-`Digital Builder (AI Engineer / Data Scientist / Designer)`
+`(Data Scientist / Analysis)`
 
 I'm a Computer Science student from India building my future in Artificial Intelligence one project at a time.
 
