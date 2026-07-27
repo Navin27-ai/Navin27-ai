@@ -1,4 +1,4 @@
-# 🤖 Navin SK
+# 🐐 Navin SK
 
 `Digital Builder (AI Engineer / Data Scientist / Designer)`
 
